@@ -38,6 +38,14 @@ section h3 {
     font-size: 1.1rem;
 }
 
+section a {
+    text-decoration: none;
+    color: #5d091a;
+}
+
+section a:hover {
+    text-decoration: underline;
+}
 
 .visuallyhidden {
     border: 0;
