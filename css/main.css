@@ -63,6 +63,11 @@ section p {
     margin-top: 5px;
 }
 
+.tipimg {
+    width: 150px;
+    height: 150px;
+}
+
 .visuallyhidden {
     border: 0;
     clip: rect(0 0 0 0);
