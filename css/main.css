@@ -1,3 +1,36 @@
+body {
+    font-family: 'Muli';
+    font-size: 1.1rem;
+}
+
+header {
+    max-width: 320px;
+    margin: auto;
+    text-align: center;
+}
+
+header figure {
+    max-width: 300px;
+    margin: auto;
+    padding-top: 2%;
+}
+
+header img {
+    max-width: 250px;
+    margin: auto;
+}
+
+header h2 {
+    font-family: 'Walter Turncoat';
+    color: #5d091a;
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
 .visuallyhidden {
     border: 0;
     clip: rect(0 0 0 0);
