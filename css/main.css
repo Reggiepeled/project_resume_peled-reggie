@@ -36,6 +36,7 @@ section h2 {
 
 section h3 {
     font-size: 1.1rem;
+    margin-bottom: 0;
 }
 
 section a {
@@ -45,6 +46,10 @@ section a {
 
 section a:hover {
     text-decoration: underline;
+}
+
+section p {
+    margin-top: 5px;
 }
 
 .visuallyhidden {
