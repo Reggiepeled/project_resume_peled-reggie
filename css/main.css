@@ -1,4 +1,9 @@
 body {
+    background: -moz-linear-gradient(0, #d9ced0 90%, #5d091a 100%);
+    background: -webkit-linear-gradient(0, #d9ced0 90%, #5d091a 100%);
+    background: linear-gradient(0, #d9ced0 90%, #5d091a 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d9ced0', endColorstr='#5d091a', GradientType=1);
+    background-size: cover;
     font-family: 'Muli';
     font-size: 1.1rem;
     padding: 5%;
