@@ -32,6 +32,11 @@ header h2 {
     font-size: 1.5rem;
 }
 
+main {
+    max-width: 700px;
+    margin: auto;
+}
+
 section {
     margin-top: 15%;
 }
@@ -83,7 +88,7 @@ section p {
     }
 
     header {
-        max-width: 650px;
+        max-width: 700px;
         min-height: 250px;
         margin-bottom: 8%;
     }
@@ -95,7 +100,7 @@ section p {
 
     header article {
         width: 320px;
-        float: right;
+        float: left;
         margin-top: 5%;
     }
 
