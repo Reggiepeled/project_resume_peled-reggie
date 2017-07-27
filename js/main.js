@@ -1,7 +1,13 @@
 $(document).ready(function () {
 
+    //fade my photo in and out on hover
+    $('.fade').mouseover(function () {
+        $('.fade').fadeOut('slow');
+        $('.fade').fadeIn('slow');
+    });
+
     //activate the snow effect plugin
-    $.fn.snow();
+    $.fn.snow({newOn: 1000});
 
     //activate the tooltipster Plugin on work, education and projects
     $('.tooltip').tooltipster();
