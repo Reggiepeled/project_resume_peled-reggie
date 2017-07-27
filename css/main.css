@@ -76,3 +76,30 @@ section p {
     position: absolute;
     width: 1px;
 }
+
+@media (min-width: 700px) {
+    section {
+        margin-top: 7%;
+    }
+
+    header {
+        max-width: 650px;
+        min-height: 250px;
+        margin-bottom: 8%;
+    }
+
+    header figure {
+        width: 280px;
+        float: left;
+    }
+
+    header article {
+        width: 320px;
+        float: right;
+        margin-top: 5%;
+    }
+
+    header article h2 {
+        color: white;
+    }
+}
