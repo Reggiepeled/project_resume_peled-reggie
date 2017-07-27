@@ -20,12 +20,10 @@ header {
 header figure {
     max-width: 300px;
     margin: auto;
-    padding-top: 2%;
 }
 
 header img {
     max-width: 250px;
-    margin: auto;
 }
 
 header h2 {
