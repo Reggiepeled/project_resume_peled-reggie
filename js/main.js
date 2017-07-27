@@ -9,7 +9,7 @@ $(document).ready(function () {
     //changing font size of h2 heading with hover
     $('section h2').hover(
         function () {
-            $(this).animate({ fontSize: '2rem' });
+            $(this).animate({ fontSize: '1.7rem' });
         }, function () {
         $(this).animate({ fontSize: '1.3rem' });
     });
